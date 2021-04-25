@@ -15,4 +15,4 @@
 
 # Summary
 
-
+  - Approximately 51% of paid members gave products a 5 star rating compared to the 40% from unpaid members. That difference suggests a slight positivity bias from paid members, though it is difficult to draw conclusions considering there were only 35 paid members compared to the 4,957 unpaid members. One additional analysis to consider is...
